@@ -5,7 +5,7 @@ This is a simple command-line-based online shopping system implemented in Python
 ## Features
 
 - User authentication: Users can log in with their username and password.
-- Product browsing: Users can browse available products and add them to the shopping cart.
+- Product Browsing: Users can browse available products and add them to the shopping cart.
 - Shopping cart management: Users can view items in the cart, remove items, and proceed to checkout.
 - Order history: The system maintains a history of orders for each user.
 
